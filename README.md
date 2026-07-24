@@ -19,4 +19,4 @@ EduLearn es una plataforma web educativa para la gestión de cursos, materiales 
 
 ## Estado
 
-En desarrollo.
+En desarrollo
