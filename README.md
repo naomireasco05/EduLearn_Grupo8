@@ -7,7 +7,7 @@ EduLearn es una plataforma web educativa para la gestión de cursos, materiales 
 ## Integrantes
 
 - Santiago Alejandro Espinales Pardo
-- Naomi Valesca Reasco Estupiñán
+- Naomi Valesca Reasco Estupiñan
 
 ## Tecnologías
 
