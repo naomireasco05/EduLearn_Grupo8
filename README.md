@@ -16,6 +16,7 @@ EduLearn es una plataforma web educativa para la gestión de cursos, materiales 
 - PostgreSQL
 - Git
 - GitHub
+- Draw.io
 
 ## Estado
 
