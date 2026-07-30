@@ -17,6 +17,8 @@ EduLearn es una plataforma web educativa para la gestión de cursos, materiales 
 - Git
 - GitHub
 - Draw.io
+- Trello
+- Google Docs 
 
 ## Estado
 
